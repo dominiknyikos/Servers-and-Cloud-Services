@@ -1,0 +1,5 @@
+﻿nem elszigetelt felhasználók
+
+kt:	
+user1 mappa
+	user1.txt tartalma

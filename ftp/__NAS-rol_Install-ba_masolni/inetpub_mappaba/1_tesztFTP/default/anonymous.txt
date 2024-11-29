@@ -1,0 +1,6 @@
+nem elszigetelt felhasználók esetén
+
+	anonymous felhasználó kezdõkönvtára
+kt:
+default
+	anonymous.txt tartalma

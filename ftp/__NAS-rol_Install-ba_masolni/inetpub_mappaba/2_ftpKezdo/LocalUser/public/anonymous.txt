@@ -1,0 +1,5 @@
+elszigetelt felhasználók
+
+LocalUser
+	public
+		anonymous.txt tartalma
