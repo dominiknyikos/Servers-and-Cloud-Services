@@ -1,0 +1,19 @@
+DN,objectClass,sAMAccountName,givenName,sn,userPrincipalName,userAccountControl
+"cn=Margot Robbie,ou=szinesznok,ou=Cinema,dc=gyakorlat,dc=local",user,margot,Margot,Robbie,margot@gyakorlat.local,8389152
+"cn=Emily Blunt,ou=szinesznok,ou=Cinema,dc=gyakorlat,dc=local",user,emily,Emily,Blunt,emily@gyakorlat.local,8389152
+"cn=Anne Hathaway,ou=szinesznok,ou=Cinema,dc=gyakorlat,dc=local",user,anne,Anne,Hathaway,anne@gyakorlat.local,8389152
+"cn=Emma Watson,ou=szinesznok,ou=Cinema,dc=gyakorlat,dc=local",user,emma,Emma,Watson,emma@gyakorlat.local,8389152
+"cn=Dakota Fanning,ou=szinesznok,ou=Cinema,dc=gyakorlat,dc=local",user,dakota,Dakota,Fanning,dakota@gyakorlat.local,8389152
+"cn=Lily Collins,ou=szinesznok,ou=Cinema,dc=gyakorlat,dc=local",user,lily,Lily,Collins,lily@gyakorlat.local,8389152
+"cn=Eva Green,ou=szinesznok,ou=Cinema,dc=gyakorlat,dc=local",user,eva,Eva,Green,eva@gyakorlat.local,8389152
+"cn=Monica Bellucci,ou=szinesznok,ou=Cinema,dc=gyakorlat,dc=local",user,monica,Monica,Bellucci,monica@gyakorlat.local,8389152
+"cn=Dina Meyer,ou=szinesznok,ou=Cinema,dc=gyakorlat,dc=local",user,dina,Dina,Meyer,dina@gyakorlat.local,8389152
+"cn=Ryan Reynolds,ou=szineszek,ou=Cinema,dc=gyakorlat,dc=local",user,ryan,Ryan,Reynolds,ryan@gyakorlat.local,8389152
+"cn=Mark Wahlberg,ou=szineszek,ou=Cinema,dc=gyakorlat,dc=local",user,mark,Mark,Wahlberg,mark@gyakorlat.local,8389152
+"cn=Brad Pitt,ou=szineszek,ou=Cinema,dc=gyakorlat,dc=local",user,brad,Brad,Pitt,brad@gyakorlat.local,8389152
+"cn=Leonardo DiCaprio,ou=szineszek,ou=Cinema,dc=gyakorlat,dc=local",user,leo,Leonardo,DiCaprio,leo@gyakorlat.local,8389152
+"cn=Alan Ritchson,ou=szineszek,ou=Cinema,dc=gyakorlat,dc=local",user,alan,Alan,Ritchson,alan@gyakorlat.local,8389152
+"cn=Matt Damon,ou=szineszek,ou=Cinema,dc=gyakorlat,dc=local",user,matt,Matt,Damon,matt@gyakorlat.local,8389152
+"cn=Morgan Freeman,ou=szineszek,ou=Cinema,dc=gyakorlat,dc=local",user,morgan,Morgan,Freeman,morgan@gyakorlat.local,8389152
+"cn=Jeff Bridges,ou=szineszek,ou=Cinema,dc=gyakorlat,dc=local",user,jeff,Jeff,Bridges,jeff@gyakorlat.local,8389152
+"cn=Daniel Craig,ou=szineszek,ou=Cinema,dc=gyakorlat,dc=local",user,daniel,Daniel,Craig,daniel@gyakorlat.local,8389152
