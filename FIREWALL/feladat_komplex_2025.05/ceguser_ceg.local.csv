@@ -1,0 +1,5 @@
+DN,objectClass,sAMAccountName,sn,givenName,userPrincipalName,userAccountControl
+"cn=Rimóczy Vera,ou=ceg,dc=ceg,dc=local",user,vera,Rimóczy,Vera,vera@ceg.local,8389152
+"cn=Tompa Elek,ou=ceg,dc=ceg,dc=local",user,elek,Tompa,Elek,elek@ceg.local,8389152
+"cn=Trumann Ede,ou=ceg,dc=ceg,dc=local",user,ede,Trumann,Ede,ede@ceg.local,8389152
+"cn=Milotai Olga,ou=ceg,dc=ceg,dc=local",user,olga,Milotai,Olga,olga@ceg.local,8389152
